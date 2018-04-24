@@ -1,6 +1,7 @@
 # 微信小程序商城
 微信小程序商城，微信小程序微店，长期维护版本，欢迎大家踊跃提交贡献代码；
 
+里面有所有需要的问题-博客地址：http://blog.s2m.cc/article/4385
 ## 参与开发
 
 更多项目请关注 [https://github.com/EastWorld](https://github.com/EastWorld)。
